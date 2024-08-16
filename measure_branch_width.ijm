@@ -1,6 +1,8 @@
 // Set the tolerance level
 tolerance = 100;
 
+
+// CHANGE THIS PRIOR TO USE
 // Define the scale factors (pixels per micron)
 scale = 0.7227;
 
